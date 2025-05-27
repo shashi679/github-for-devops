@@ -7,3 +7,9 @@ git add filename
 git commit -m"message"
 
 git restore
+
+git remote -v
+
+git push origin master
+
+git remote set-url origin
